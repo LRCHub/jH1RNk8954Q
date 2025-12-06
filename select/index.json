@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Kings & Queens",
+  "base_artist": "Ava Max",
+  "createdAt": "2025-12-06T14:49:47.116401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kings",
+      "artist": "The Magnetic Fields",
+      "has_synced": false,
+      "path": "select/01_Kings_The_Magnetic_Fields.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kings & Queens (feat. Run The Jewels)",
+      "artist": "DJ Shadow feat. Run The Jewels",
+      "has_synced": true,
+      "path": "select/02_Kings_&_Queens_(feat._Run_The_Jewels)_DJ_Shadow_feat._Run_The_Jewels.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kings & Queens",
+      "artist": "DJ Shadow",
+      "has_synced": true,
+      "path": "select/03_Kings_&_Queens_DJ_Shadow.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kings Fall",
+      "artist": "Michael Kiske",
+      "has_synced": true,
+      "path": "select/04_Kings_Fall_Michael_Kiske.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Under Ground Kings",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/05_Under_Ground_Kings_Drake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heavy Metal Kings",
+      "artist": "Jedi Mind Tricks feat. Ill Bill",
+      "has_synced": true,
+      "path": "select/06_Heavy_Metal_Kings_Jedi_Mind_Tricks_feat._Ill_Bill.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heavy Metal Kings (Feat Ill Bill)",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/07_Heavy_Metal_Kings_(Feat_Ill_Bill)_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Young Kings",
+      "artist": "Meek Mill",
+      "has_synced": true,
+      "path": "select/08_Young_Kings_Meek_Mill.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All The King's Horses",
+      "artist": "Blind Guardian",
+      "has_synced": false,
+      "path": "select/09_All_The_King's_Horses_Blind_Guardian.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "King's Lead Hat",
+      "artist": "Brian Eno",
+      "has_synced": true,
+      "path": "select/10_King's_Lead_Hat_Brian_Eno.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In the Kingdom of the Blind the One-eyed Are Kings",
+      "artist": "Dead Can Dance",
+      "has_synced": true,
+      "path": "select/11_In_the_Kingdom_of_the_Blind_the_One-eyed_Are_Kings_Dead_Can_Dance.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In The Kingdom Of The Blind The One Eyed Are Kings",
+      "artist": "Dead Can Dance",
+      "has_synced": true,
+      "path": "select/12_In_The_Kingdom_Of_The_Blind_The_One_Eyed_Are_Kings_Dead_Can_Dance.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kings of Medicine",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/13_Kings_of_Medicine_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "For All Kings",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/14_For_All_Kings_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kings Will Be Kings",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/15_Kings_Will_Be_Kings_Helloween.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kings & Queens",
+      "artist": "Ava Max",
+      "has_synced": false,
+      "path": "select/pl_01_Kings_&_Queens_Ava_Max.txt"
+    }
+  ]
+}
